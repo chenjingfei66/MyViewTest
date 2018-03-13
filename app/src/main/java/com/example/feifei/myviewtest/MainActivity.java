@@ -30,6 +30,8 @@ public class MainActivity extends AppCompatActivity {
         initView();
 
         System.out.println("fdfdsf");
+        System.out.println("fdfdsf");
+
         MyFragment myFragment = new MyFragment();
         MyFragment2 myFragment2 = new MyFragment2();
         List<Fragment> list = new ArrayList<>();
