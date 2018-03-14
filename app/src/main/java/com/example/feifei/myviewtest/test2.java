@@ -5,4 +5,8 @@ package com.example.feifei.myviewtest;
  */
 
 public class test2 {
+
+    public test2(){
+
+    }
 }
